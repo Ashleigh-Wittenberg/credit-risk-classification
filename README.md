@@ -15,13 +15,13 @@ The stages of the process are as follows:
 
 Model 1: Logistic Regression
 
-Accuracy: 0.99
-Precision (healthy loan): 1.00
-Recall (healthy loan): 1.00
-F1-score (healthy loan): 1.00
-Precision (high-risk loan): 0.87
-Recall (high-risk loan): 0.89
-F1-score (high-risk loan): 0.88
+-Accuracy: 0.99
+-Precision (healthy loan): 1.00
+-Recall (healthy loan): 1.00
+-F1-score (healthy loan): 1.00
+-Precision (high-risk loan): 0.87
+-Recall (high-risk loan): 0.89
+-F1-score (high-risk loan): 0.88
 
 Accuracy (Overall Performance):
 The logistic regression model achieved an accuracy score of 0.99, indicating that it correctly predicted the loan status for 99% of the instances in the dataset.
